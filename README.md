@@ -20,7 +20,6 @@ Queries data using SQL directly from S3.
 ## Lambda Function
 Triggers the Glue ETL job.
 
-All components are within AWS Free Tier usage.
 
 
 
