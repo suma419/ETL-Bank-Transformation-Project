@@ -21,3 +21,7 @@ Queries data using SQL directly from S3.
 Triggers the Glue ETL job.
 
 All components are within AWS Free Tier usage.
+
+
+
+![Image Alt](https://github.com/suma419/ETL-Bank-Transformation-Project/blob/fca23dbaf2267b3e23806ad21126de88859269b0/bankprospects_ETL_Glue_job_output_csv_file.png)]
