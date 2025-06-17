@@ -80,4 +80,9 @@ This project builds a complete ETL pipeline for bank prospect data using AWS ser
 
 
 
-![Image Alt](https://github.com/suma419/ETL-Bank-Transformation-Project/blob/fca23dbaf2267b3e23806ad21126de88859269b0/bankprospects_ETL_Glue_job_output_csv_file.png)]
+![Image Alt](https://github.com/suma419/ETL-Bank-Transformation-Project/blob/fca23dbaf2267b3e23806ad21126de88859269b0/bankprospects_ETL_Glue_job_output_csv_file.png)
+
+![Image Alt](https://github.com/suma419/ETL-Bank-Transformation-Project/blob/5026767e7896b909214445e810557ef22616a67b/ETL_Procssed_folder%20created%20by%20glue.png)
+
+
+
